@@ -20,13 +20,13 @@ After tacking them on, I turned the board, clipped the legs close to the PCB and
 
 ## Sticking the LEDs
 
-Next up are the LEDs which I simply placed in the board, ensuring correct orientation.
+Next up are the LEDs which I simply placed on the board, ensuring correct orientation.
 
 ![Sticking the LEDs](pics/P1070532.JPG)
 
 ## Holding the LEDs
 
-Then I aligned and fixated the second PCB to the first PCB  using some copper wire in the 4 corner holes and turned it around. This allows me to properly adjust the LEDs to the mask without worrying about movement.
+Then I aligned and fixated the second PCB to the first PCB using some copper wire in the 4 corner holes and turned it around. This allows me to properly adjust the LEDs with the tweezers to match the mask without worrying about movement.
 
 ![Aligning and fixating the second board](pics/P1070534.JPG)
 
