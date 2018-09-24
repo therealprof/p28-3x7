@@ -62,4 +62,11 @@ Now comes a bit of fiddly part with sorting the resistors into the top place. Th
 
 After careful reblobbing and cleaning the project is done and can be hooked up to a power source (negative to any of the two ground pins and positive goes to both one of the three LED sectors as well as the to be lit up segment selectors.
 
-... More images of the final product to follow ...
+## Finalized product
+
+At some point I might have to paint over some of the scuffs on the bottom board but other than those here's images of the finalized build:
+
+![Inside view LED](pics/P1070544.JPG)
+![Inside view resistors](pics/P1070546.JPG)
+![Top view](pics/P1070545.JPG)
+![Bottom view](pics/P1070547.JPG)
